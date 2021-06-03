@@ -1,5 +1,4 @@
-# -*- encoding: utf-8 -*-
-$:.unshift(File.expand_path('../lib', __FILE__))
+$:.unshift(File.expand_path('lib', __dir__))
 require 'proxyreverse/version'
 
 Gem::Specification.new do |s|

@@ -1,4 +1,5 @@
 require 'proxyreverse/version'
+require 'pry'
 
 module ProxyReverse
   autoload :Client, 'proxyreverse/client'
